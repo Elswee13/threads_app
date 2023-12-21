@@ -1,8 +1,11 @@
 import { fetchUsers, fetchUser } from '@/lib/actions/user.actions';
 import { currentUser } from '@clerk/nextjs';
 import { redirect } from 'next/navigation';
-import Pagination from "@/components/shared/Pagination";
-import Searchbar from '@/components/shared/SearchBar';
+import ProfileHeader from "@/components/shared/ProfileHeader";
+import { profileTabs } from '@/constants';
+import Image from "next/image";
+import ThreadsTab from '@/components/shared/ThreadsTab';
+import UserCard from '@/components/cards/UserCard';
 import { fetchCommunities } from '@/lib/actions/community.actions';
 import CommunityCard from '@/components/cards/CommunityCard';
 
@@ -50,7 +53,11 @@ const Page = async () => {
         )}
       </section>
 
-      
+      <Pagination
+        path='communities'
+        pageNumber={searchParams?.page ? +searchParams.page : 1}
+        isNext={result.isNext}
+      />
     </>
   );
 }

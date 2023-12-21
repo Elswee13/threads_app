@@ -50,7 +50,11 @@ const Page = async () => {
         )}
       </section>
 
-      
+      <Pagination
+        path='communities'
+        pageNumber={searchParams?.page ? +searchParams.page : 1}
+        isNext={result.isNext}
+      />
     </>
   );
 }

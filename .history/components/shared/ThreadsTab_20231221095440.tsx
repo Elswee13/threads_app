@@ -22,7 +22,7 @@ const ThreadsTab = async({
         result = await fetchCommunityPosts(accountId); 
 
     }else{
-        result = await fetchUserPosts(accountId); 
+        let result = await fetchUserPosts(accountId); 
     }
 
 

@@ -112,10 +112,6 @@ const ThreadCard = ({
                         </div>
                     </div>
                 </div>
-                {/* {console.log('COMMUNITY',community)}; */}
-
-            </div>
-            {/* this  for community appears in the thread of the user  */}
                 {!isComment && community && (
                     <Link
                      href={`/communities/${community.id}`}
@@ -123,7 +119,7 @@ const ThreadCard = ({
                     >
                         <p className="text-subtle-medium text-gray-1" >
                             {formatDateString(createdAt)}
-                            {" "} - {community.name} Community
+                            - {community.name} Community
                         </p>
                         <Image
                          src={community.image}
@@ -134,6 +130,7 @@ const ThreadCard = ({
                         />
                     </Link>
                 )}
+            </div>
 
         </article>
     )

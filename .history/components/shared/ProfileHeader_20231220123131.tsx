@@ -18,7 +18,6 @@ const ProfileHeader = ({
     username,
     imgUrl,
     bio,
-    type
 }: Props) =>{
     return(
         // All profile structure first Icon and name with username

@@ -2,13 +2,13 @@ import Image from "next/image";
 
 
 interface Props{
-    accountId:string;
-    authUserId:string;
-    name:string;
-    username:string;
-    imgUrl:string;
-    bio:string;
-    type?: 'User' | 'Community';
+    accountId:string,
+    authUserId:string,
+    name:string,
+    username:string,
+    imgUrl:string,
+    bio:string,
+    type: 'User' | 'Community'
 }
 
 const ProfileHeader = ({
@@ -18,7 +18,6 @@ const ProfileHeader = ({
     username,
     imgUrl,
     bio,
-    type
 }: Props) =>{
     return(
         // All profile structure first Icon and name with username
