@@ -31,6 +31,7 @@ Search:
 Activity:
 
 Log In:**
+![Screenshot 2023-12-20 104537](https://github.com/Elswee13/threads_app/assets/77897104/f9965e88-f8b1-43c8-8fbf-ae2ee94d59cb)
 
 
 
