@@ -20,25 +20,25 @@ Vercel ['Vercel'](https://vercel.com/)
 
 Images from the App:
 
-**Home:
+**Home:**
 ![Screenshot 2023-12-21 122754](https://github.com/Elswee13/threads_app/assets/77897104/55343f48-970c-4296-b376-1824dbb00768)
 
-Profile:
+**Profile:**
 ![Screenshot 2023-12-21 122840](https://github.com/Elswee13/threads_app/assets/77897104/5df40714-65b3-48d2-98cf-9b410ca73da0)
 
-Communities:
+**Communities:**
 ![Screenshot 2023-12-21 122832](https://github.com/Elswee13/threads_app/assets/77897104/b4cc3772-5a20-4e24-9abc-300e396838b8)
 
-Create Thread:
+**Create Thread:**
 ![Screenshot 2023-12-21 122824](https://github.com/Elswee13/threads_app/assets/77897104/fc832bca-0ccd-4253-b2c2-b010c3e634ac)
 
-Search:
+**Search:**
 ![Screenshot 2023-12-21 122804](https://github.com/Elswee13/threads_app/assets/77897104/995c755e-ccdf-42c7-9499-352b6be271a2)
 
-Activity:
+**Activity:**
 ![Screenshot 2023-12-21 122813](https://github.com/Elswee13/threads_app/assets/77897104/0e647a9a-e570-4a39-b35b-f373927f798b)
 
-Log In:**
+**Log In:**
 ![Screenshot 2023-12-20 104537](https://github.com/Elswee13/threads_app/assets/77897104/f9965e88-f8b1-43c8-8fbf-ae2ee94d59cb)
 
 
