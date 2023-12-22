@@ -21,6 +21,7 @@ Vercel ['Vercel'](https://vercel.com/)
 Images from the App:
 
 **Home:
+![Screenshot 2023-12-21 122754](https://github.com/Elswee13/threads_app/assets/77897104/55343f48-970c-4296-b376-1824dbb00768)
 
 Profile:
 
