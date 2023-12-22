@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Well before starting, it is a challenge to be able to make the functionalities work the way they should. The application is made using the following technologies:
 
-Next. JS 14
+Next. JS 14 ['NextJS Doc'](https://nextjs.org/docs)
 
 MongoDB ['MongoDB Doc'](https://www.mongodb.com/docs/atlas/)
 
