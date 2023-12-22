@@ -2,13 +2,21 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 Well before starting, it is a challenge to be able to make the functionalities work the way they should. The application is made using the following technologies:
+
 Next. JS 14
+
 MongoDB ['MongoDB Doc'](https://www.mongodb.com/docs/atlas/)
+
 ChadCN ['ChadCN Doc'](https://ui.shadcn.com/docs)
+
 Tailwind CSS ['Tailwind Docs'](https://tailwindcss.com/docs/installation/using-postcss)
+
 Clerk ['Clerk Docs'](https://clerk.com/docs/quickstarts/nextjs)
+
 Zod ['Zod Doc'](https://zod.dev/)
+
 Vercel ['Vercel'](https://vercel.com/)
+
 
 Images from the App:
 
