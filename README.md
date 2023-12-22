@@ -26,6 +26,12 @@ Images from the App:
 Profile:
 
 Communities:
+![Screenshot 2023-12-21 122804](https://github.com/Elswee13/threads_app/assets/77897104/995c755e-ccdf-42c7-9499-352b6be271a2)
+![Screenshot 2023-12-21 122813](https://github.com/Elswee13/threads_app/assets/77897104/0e647a9a-e570-4a39-b35b-f373927f798b)
+![Screenshot 2023-12-21 122824](https://github.com/Elswee13/threads_app/assets/77897104/fc832bca-0ccd-4253-b2c2-b010c3e634ac)
+![Screenshot 2023-12-21 122832](https://github.com/Elswee13/threads_app/assets/77897104/b4cc3772-5a20-4e24-9abc-300e396838b8)
+
+Create Thread:
 
 Search:
 
