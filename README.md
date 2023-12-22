@@ -24,6 +24,7 @@ Images from the App:
 ![Screenshot 2023-12-21 122754](https://github.com/Elswee13/threads_app/assets/77897104/55343f48-970c-4296-b376-1824dbb00768)
 
 Profile:
+![Screenshot 2023-12-21 122840](https://github.com/Elswee13/threads_app/assets/77897104/5df40714-65b3-48d2-98cf-9b410ca73da0)
 
 Communities:
 ![Screenshot 2023-12-21 122832](https://github.com/Elswee13/threads_app/assets/77897104/b4cc3772-5a20-4e24-9abc-300e396838b8)
